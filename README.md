@@ -1,5 +1,7 @@
 # No Code
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/nocode.svg)](https://www.guardrails.io)
+
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Getting Started
